@@ -28,6 +28,21 @@ SuperCLI 用两条产品线解决这件事：
 - **证据先行**：质检报告每一条结论都带可复核的证据
 - **社区共建**：目录条目走 PR，任何人可补充、可纠错
 
+## 合作品牌
+
+SuperCLI 的图像与票务能力由以下平台提供：
+
+<table>
+<tr>
+<td width="80" align="center"><img src="https://supercli.site/brand/partner-museav.svg" width="48" alt="MUSE AV" /></td>
+<td><b>MUSE AV · 一念成像</b><br/>AI 图像与视频生成 SaaS —— 模板化出图、素材管理、批量生产，为 SuperCLI 提供视觉资产管线。<br/><a href="https://manager.museav.top">manager.museav.top</a></td>
+</tr>
+<tr>
+<td width="80" align="center"><img src="https://supercli.site/brand/partner-hym.png" width="44" alt="好易美" /></td>
+<td><b>好易美 HYM</b><br/>专业票务服务平台 —— 跨境票务、演出与出行服务，与 SuperCLI 的 CLI 工具生态互补。<br/><a href="https://www.hympro.cn">www.hympro.cn</a></td>
+</tr>
+</table>
+
 ## 参与贡献
 
 - 提交一个 CLI：阅读 [CONTRIBUTING](./supercli/CONTRIBUTING.md)，发 PR 即可
