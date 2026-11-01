@@ -34,11 +34,11 @@ SuperCLI 的图像与票务能力由以下平台提供：
 
 <table>
 <tr>
-<td width="80" align="center"><img src="https://supercli.site/brand/partner-museav.svg" width="48" alt="MUSE AV" /></td>
-<td><b>MUSE AV · 一念成像</b><br/>AI 图像与视频生成 SaaS —— 模板化出图、素材管理、批量生产，为 SuperCLI 提供视觉资产管线。<br/><a href="https://manager.museav.top">manager.museav.top</a></td>
+<td width="80" align="center"><img src="https://raw.githubusercontent.com/supercli-site/supercli/main/public/brand/partner-museav.svg" width="48" alt="MUSE AV" /></td>
+<td><b>MUSE AV · 一念成像</b><br/>AI 图像与视频生成 SaaS —— 模板化出图、素材管理、批量生产，为 SuperCLI 提供视觉资产管线。<br/><a href="https://museav.top">museav.top</a></td>
 </tr>
 <tr>
-<td width="80" align="center"><img src="https://supercli.site/brand/partner-hym.png" width="44" alt="好易美" /></td>
+<td width="80" align="center"><img src="https://raw.githubusercontent.com/supercli-site/supercli/main/public/brand/partner-hym.png" width="44" alt="好易美" /></td>
 <td><b>好易美 HYM</b><br/>专业票务服务平台 —— 跨境票务、演出与出行服务，与 SuperCLI 的 CLI 工具生态互补。<br/><a href="https://www.hympro.cn">www.hympro.cn</a></td>
 </tr>
 </table>
