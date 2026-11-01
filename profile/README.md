@@ -19,9 +19,9 @@
 
 | 项目 | 干什么 | 地址 |
 |---|---|---|
-| **[supercli](./supercli)** | CLI 目录与发现站：按用途搜索、厂商筛选、GitHub Stars 快照排名，社区通过 PR 贡献 | [supercli.site](https://supercli.site) |
-| **[scorecard](./scorecard)** | 项目质检：对 GitHub 仓库 / npm 包 / 网页做 9 维度成熟度审计，输出证据与整改清单 | [scorecard.supercli.site](https://scorecard.supercli.site) |
-| **[xiaobai-kanban](./xiaobai-kanban)** | 小白看板：零基础 AI 编程入门教程——认识 Agent、表达需求、装好 CLI、走通 Git 工作流，让 Agent 帮你写出第一个作品 | [xiaobai.supercli.site](https://xiaobai.supercli.site) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supercli-site/supercli/main/public/brand/supercli-symbol-mono-light.svg"><img src="https://raw.githubusercontent.com/supercli-site/supercli/main/public/brand/supercli-symbol.svg" width="24" alt="SuperCLI"></picture>  **[supercli](./supercli)** | CLI 目录与发现站：按用途搜索、厂商筛选、GitHub Stars 快照排名，社区通过 PR 贡献 | [supercli.site](https://supercli.site) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supercli-site/scorecard/main/public/logo-dark.svg"><img src="https://raw.githubusercontent.com/supercli-site/scorecard/main/public/logo.svg" width="24" alt="Scorecard"></picture>  **[scorecard](./scorecard)** | 项目质检：对 GitHub 仓库 / npm 包 / 网页做 9 维度成熟度审计，输出证据与整改清单 | [scorecard.supercli.site](https://scorecard.supercli.site) |
+| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/supercli-site/xiaobai-kanban/main/public/favicon-dark.svg"><img src="https://raw.githubusercontent.com/supercli-site/xiaobai-kanban/main/public/favicon.svg" width="24" alt="小白看板"></picture>  **[xiaobai-kanban](./xiaobai-kanban)** | 小白看板：零基础 AI 编程入门教程——认识 Agent、表达需求、装好 CLI、走通 Git 工作流，让 Agent 帮你写出第一个作品 | [xiaobai.supercli.site](https://xiaobai.supercli.site) |
 
 ## 为什么可信
 
